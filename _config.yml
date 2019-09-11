@@ -1,8 +1,8 @@
 fork_me_ribbon_url: https://github.com/coderefinery/git-collaborative
 baseurl: "/git-collaborative"
 title: "Collaborative distributed version control"
-centralized_workflow_exercise_url: https://github.com/coderefinery/centralized-workflow-exercise
-forking_workflow_exercise_url: https://github.com/coderefinery/forking-workflow-exercise
+centralized_workflow_exercise_url: https://github.com/KTH-dESA/centralized-workflow-exercise
+forking_workflow_exercise_url: https://github.com/KTH-dESA/forking-workflow-exercise
 
 source: .
 destination: ./_site
